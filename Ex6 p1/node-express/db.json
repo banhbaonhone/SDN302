@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "My Favorite Vacation",
+      "date": "2023-06-02",
+      "text": "We spent seven days in Italy..."
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Introduction to NodeJS",
+      "duration": "10:00"
+    },
+    {
+      "id": 2,
+      "title": "Express Framework Basics",
+      "duration": "15:30"
+    }
+  ]
+}
